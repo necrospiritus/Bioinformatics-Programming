@@ -14,5 +14,5 @@ def gc_content(base_seq, RNA=False):
 
 
 # USAGE
-gc_content("AACCCTTGG")  # For DNA Sample
+gc_content("AACCCTTGG")  # For sequence Sample
 gc_content("AAGGCCUU", True)  # For RNA Sample
